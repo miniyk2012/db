@@ -1,0 +1,2 @@
+use netease;
+show TABLES ;
